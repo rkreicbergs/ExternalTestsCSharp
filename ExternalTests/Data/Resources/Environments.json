@@ -1,0 +1,10 @@
+{
+  "Environments" : {
+    "Production": {
+      "EnvironmentType": "Production",
+      "BaseUiUri":  "https://www.phptravels.net/",
+      "RootDomain": "phptravels.net",
+      "DevelopmentEnvironment": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Users" : [
+    {
+      "user_id" : "base_user",
+      "username" : "user@phptravels.com",
+      "password" : "demouser",
+      "name" : "Demo",
+      "surname" : "User"
+    },
+    {
+      "user_id" : "wrong_password_user",
+      "username" : "user@phptravels.com",
+      "password" : "wrong_password"
+    }
+  ]
+}
